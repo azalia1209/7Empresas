@@ -1,0 +1,125 @@
+﻿h1 {
+    background-color: #4D455D;
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+}
+
+body {
+    background-color: #E96479;
+    text-align: right;
+    color: black;
+    justify-content: center;
+}
+
+.button-style {
+    background-color: #F5E9CF;
+    color: black;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 2px;
+    cursor: pointer;
+    width: 150px;
+    height: 60px;
+    margin-top: 40px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.button1 {
+    background-color: #F5E9CF;
+    align-content: center;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 2px;
+    cursor: pointer;
+    width: 300px;
+    height: 60px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+
+.botones-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; 
+}
+
+
+.parrafo1 {
+    background-color: #F5E9CF;
+    font-family: 'Georgia', serif;
+    border: 2px solid black;
+    float: left;
+    width: 70%;
+    padding: 60px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    text-align: justify;
+}
+
+.menu {
+    text-align: center;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    font-family: 'Georgia', serif;
+    font-size: 16px;
+    background-color: #7C9070;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px solid #7C9070;
+}
+
+tr {
+    background-color: #FEE8B0;
+}
+
+.trabajo {
+    border: 2px solid black;
+    max-width: 40%;
+    float: left;
+    margin-right: 20px;
+}
+
+.logo {
+    border: 2px solid black;
+    max-width: 40%;
+    margin: 0 auto;
+    display: block;
+
+}
+
+.Web {
+    background-color: #FF7F3F;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 2px;
+    cursor: pointer;
+    width: 200px;
+    height: 60px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
